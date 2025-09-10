@@ -4,9 +4,9 @@
   "description": "Backend for contacts app",
   "main": "server.js",
   "scripts": {
-    "start": "node database.js && node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node server.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
